@@ -21,12 +21,9 @@ We conducted 10-minute trials with 14 participants to obtain data for model trai
 * sensor_63
 * height_cm
 * weight_kg
-  
-📎[View processed dataset]
-()
 
 ---
-## 🧠 XG-Boost Architecture
+## 🧠 XGBoost Architecture
 
 | Layer Type     | Details                                         |
 | -------------- | ----------------------------------------------- |
